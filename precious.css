@@ -15,6 +15,18 @@ table.table-bordered > tbody > tr > td {
   transform: translate(10px, 10px);
 }
 
+.far {
+  font-weight: 700;
+}
+
+.far span {
+  font-family: Arial;
+}
+
+.h-name {
+  font-weight: 700;
+}
+
 h2,
 footer {
   margin-top: 3%;
